@@ -1,6 +1,9 @@
 # qr_reader
 
-A new Flutter project.
+A new QR Flutter project.
+
+Images:
+
 
 ## Getting Started
 
